@@ -13,11 +13,12 @@
 
 body{
     background-color: var(--cor-de-fundo);
+    color: var(--branca-principal);
 }
 
 .background{
     background-image: url("./img/Background.png");
-    height: 680px;
+    height: 556px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
