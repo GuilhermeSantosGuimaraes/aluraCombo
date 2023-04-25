@@ -115,3 +115,9 @@ body{
 .container__descritorio{
     padding: 2em;
 }
+
+.telas__grupo{
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+}
