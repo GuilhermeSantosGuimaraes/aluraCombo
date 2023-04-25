@@ -120,6 +120,11 @@ body{
     text-align: center;
 }
 
+.telas__titulo{
+    font-size: 2,625rem;
+    font-weight: bold;
+}
+
 .telas__grupo{
     height: 100vh;
     display: grid;
@@ -128,4 +133,6 @@ body{
 
 .telas__icon{
     text-align: center;
+    font-weight: bold;
+    font-size: 2rem;
 }
