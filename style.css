@@ -93,7 +93,7 @@ body{
 }
 
 .terciario__imagem{
-    width: 70%;
+    width: 80%;
 }
 
 .terciario{
@@ -102,6 +102,7 @@ body{
 }
 
 .descricao__link{
+    display: inline-block;
     padding: 1em;
     color: var(--branca-principal);
     font-size: 1rem;
