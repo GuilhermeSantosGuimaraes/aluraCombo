@@ -135,4 +135,31 @@ body{
     text-align: center;
     font-weight: bold;
     font-size: 2rem;
+    margin-top: 1em;
+    width: auto;
 }
+
+.footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.logo{
+    margin-bottom: 1.5em;
+}
+
+.informacoes a{
+    text-decoration: none;
+    color: var(--branca-principal);
+    font-size: 1em;
+    margin-bottom: 1.5em;
+}
+
+.direitos{
+    color: var(--branca-principal);
+    font-size: 0.8em;
+    margin-top: 1.5em;
+}
+
