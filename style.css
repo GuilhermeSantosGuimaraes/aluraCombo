@@ -116,8 +116,16 @@ body{
     padding: 2em;
 }
 
+.container__telas{
+    text-align: center;
+}
+
 .telas__grupo{
     height: 100vh;
     display: grid;
     grid-template-columns: 33% 33% 33%;
+}
+
+.telas__icon{
+    text-align: center;
 }
