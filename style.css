@@ -89,4 +89,22 @@ body{
 
 .descricao__texto{
     color: var(--cinza-secundaria);
+    font-size: 1em;
+}
+
+.terciario__imagem{
+    width: 80%;
+}
+
+.terciario__imagem{
+    align-items: center;
+    margin: 0 10em;
+}
+
+.descricao__link{
+    padding: 10px;
+    color: var(--branca-principal);
+    font-size: 1rem;
+    background-color: var(--botao-azul);
+    border-radius: 5px;
 }
