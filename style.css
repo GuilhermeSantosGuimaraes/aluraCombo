@@ -123,6 +123,7 @@ body{
 .telas__titulo{
     font-size: 3rem;
     font-weight: bold;
+    margin: 0.5em 0;
 }
 
 .telas__grupo{
