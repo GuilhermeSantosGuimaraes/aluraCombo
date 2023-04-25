@@ -164,3 +164,10 @@ body{
     margin-top: 1.5em;
 }
 
+.informacoes a:hover{
+    color: var(--botao-azul);
+}
+
+.informacoes a:active{
+    color: var(--cinza-secundaria);
+}
